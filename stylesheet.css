@@ -1,0 +1,11 @@
+/*below mentioned code makes the h1 within the dotted border having purple box color with font color maroon and font size 40px with center text alignment*/
+h1{
+	font-size:40px;
+	color:maroon;
+	text-align:center;
+	}
+.borderdots{
+	border:6px dotted purple;
+	background-clip: padding-box;
+	background-color: #ffe6e6;
+		}
